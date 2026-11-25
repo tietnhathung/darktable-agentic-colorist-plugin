@@ -1,0 +1,11 @@
+{
+  "antigravity_bin": "",
+  "codex_bin": "",
+  "darktable_cli_path": "",
+  "rawspeed_cameras": "",
+  "max_inner_steps": 3,
+  "antigravity_timeout_seconds": 240,
+  "darktable_timeout_seconds": 180,
+  "preview_size": 1600,
+  "models": {}
+}
